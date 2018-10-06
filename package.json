@@ -1,0 +1,23 @@
+{
+  "name": "serverless-hello-world-node",
+  "version": "1.0.0",
+  "description": "Exploring the serverless framework on top of AWS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexanderbird/serverless-hello-world-node.git"
+  },
+  "keywords": [
+    "serverless",
+    "hello-world"
+  ],
+  "author": "Alexander Bird",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexanderbird/serverless-hello-world-node/issues"
+  },
+  "homepage": "https://github.com/alexanderbird/serverless-hello-world-node#readme"
+}
