@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/alexanderbird/serverless-hello-world-node/issues"
   },
-  "homepage": "https://github.com/alexanderbird/serverless-hello-world-node#readme"
+  "homepage": "https://github.com/alexanderbird/serverless-hello-world-node#readme",
+  "devDependencies": {
+    "serverless": "^1.32.0"
+  }
 }
